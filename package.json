@@ -1,0 +1,21 @@
+{
+  "name": "connections",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "ms": "2.1.2",
+    "semver": "7.1.2",
+    "three-js": "79.0.0",
+    "three.js": "0.77.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
